@@ -21,7 +21,7 @@
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   }
-}</h7>
+}</h7><br>
 .prettierrc
 {
   "semi": false,
