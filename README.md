@@ -22,7 +22,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   }
 }</h7><br>
-.prettierrc
+<h2>.prettierrc</h2>
 {
   "semi": false,
   "singleQuote": true
