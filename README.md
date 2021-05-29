@@ -17,5 +17,5 @@
 
 <hr>
 
-![counter](https://github-readme-stats.vercel.app/api?username=sing3demons&show_icons=true&theme=radical)
+![counter](https://github.com/sing3demons?username=sing3demons&show_icons=true&theme=radical)
 
