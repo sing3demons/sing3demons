@@ -21,4 +21,6 @@
 ## 👩‍💻 Languages [🔝](#welcome-badges-4-readmemd-profile)
 
 Badge | URL
+------------ | -------------
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> | `https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen`
 https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
