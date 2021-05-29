@@ -10,19 +10,19 @@
 
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sing3demons&layout=compact)](https://github.com/sing3demons/sing3demons)
-
-<a href="https://github.com/sing3demons/sing3demons">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sing3demons&hide=tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sing3demons&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3)](https://github.com/sing3demons/sing3demons)
 
 
-## 👩‍💻 setup vscode [🔝](#welcome-badges-4-readmemd-profile)
+
+## 👩‍💻 setup vscode (#welcome-badges-4-readmemd-profile)
 
 Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> | <a href="https://github.com/sing3demons/vscode-react/blob/main/README.md"> React - setup vscode </a> 
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D" /> | <a href="https://github.com/sing3demons/vscode-vue/blob/main/README.md">Vue - setup vscode</a>
+
+<br/>
+
 
 
 ## 📱 Contact [🔝](#welcome-badges-4-readmemd-profile)
