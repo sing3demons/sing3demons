@@ -6,10 +6,11 @@
 -->
 
 <hr>
-<h1>
+
 <h1>
 <a href="https://github.com/sing3demons/vscode-react/blob/main/setting.json"> React - setup vscode </a>
 </h1>
+
 <br>
 
 <h2><a href="https://github.com/sing3demons/vscode-react/blob/main/.prettierrc"> .prettierrc  </a></h2>
