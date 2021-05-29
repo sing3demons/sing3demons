@@ -37,6 +37,10 @@ Badge | URL
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
 
-## 👨‍💻 This week, I spent my time on:
-
-[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sing3demons&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats)
+## My GitHub Stats 📊
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rahulbanerjee26&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbanerjee26" />
+</a>
