@@ -7,6 +7,7 @@
 
 <hr>
 <h1>React - setup vscode</h1>
+<a href="https://github.com/sing3demons/vscode-react/blob/main/setting.json"> react </a>
 
 <h7>{
   "editor.formatOnSave": true,
