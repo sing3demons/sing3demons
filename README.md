@@ -1,4 +1,4 @@
-<h1>ชื่อ : คำนึง พันธ์ทอง</h1>
+<h1  align="center">ชื่อ : คำนึง พันธ์ทอง</h1>
 
 <!--
 **sing3demons/sing3demons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
