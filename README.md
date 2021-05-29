@@ -16,6 +16,10 @@
 <h1><a href="https://github.com/sing3demons/vscode-vue">Vue - setup vscode</a></h1><br>
 
 <hr>
-<center>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sing3demons&show_icons=true&theme=radical)
-</center>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
+</a>
