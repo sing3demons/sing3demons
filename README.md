@@ -10,13 +10,14 @@
 
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sing3demons&layout=compact)](https://github.com/pallat/pallat)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sing3demons&layout=compact)](https://github.com/sing3demons/sing3demons)
+
+<a href="https://github.com/sing3demons/sing3demons">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sing3demons&hide=tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 
 
 ## 👩‍💻 setup vscode [🔝](#welcome-badges-4-readmemd-profile)
-
-<hr/>
-
 
 Badge | URL
 ------------ | -------------
