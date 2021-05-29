@@ -1,17 +1,19 @@
+#       ชื่อ : คำนึง พันธ์ทอง
+      
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
   
-  
-      ชื่อ : คำนึง พันธ์ทอง
 
 <!--
 **sing3demons/sing3demons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
 
-<a href="https://github.com/sing3demons/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sing3demons" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sing3demons&layout=compact)](https://github.com/pallat/pallat)
+
+[](https://stackoverflow.com/users/10927329/valentin-briand)
+&nbsp;
 
 <hr/>
 
@@ -25,6 +27,10 @@
 
 ## 📱 Contact [🔝](#welcome-badges-4-readmemd-profile)
 
+[<img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" />](https://stackoverflow.com/users/10927329/valentin-briand)
+&nbsp;
+[<img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" />](https://stackoverflow.com/users/10927329/valentin-briand)
+&nbsp;
 Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" /> | `https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white`
