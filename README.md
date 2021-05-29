@@ -15,7 +15,7 @@
 
 <h2><a href="https://github.com/sing3demons/vscode-react/blob/main/.prettierrc"> .prettierrc  </a></h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <h1>Vue - setup vscode</h1><br>
@@ -55,3 +55,4 @@
 }
 <hr>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sing3demons)](https://github.com/anuraghazra/github-readme-stats)
