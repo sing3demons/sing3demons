@@ -6,28 +6,13 @@
 -->
 
 <hr>
-<h1>React - setup vscode</h1>
-<a href="https://github.com/sing3demons/vscode-react/blob/main/setting.json"> react </a>
+<h1>
 
-<h7>{
-  "editor.formatOnSave": true,
-  "emmet.syntaxProfiles": {
-    "javascript": "jsx"
-  },
-  "emmet.includeLanguages": {
-    "javascript": "javascriptreact"
-  },
-  "emmet.triggerExpansionOnTab": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
-}</h7><br>
-<h2>.prettierrc</h2>
-{
-  "semi": false,
-  "singleQuote": true
-}
+</h1>
+<br>
+
+<h2><a href="https://github.com/sing3demons/vscode-react/blob/main/.prettierrc"> .prettierrc  </a></h2>
+
 <hr>
 
 <h1>Vue - setup vscode</h1><br>
