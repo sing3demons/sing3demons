@@ -16,6 +16,6 @@
 <h1><a href="https://github.com/sing3demons/vscode-vue">Vue - setup vscode</a></h1><br>
 
 <hr>
-
+<center>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sing3demons&show_icons=true&theme=radical)
-
+</center>
