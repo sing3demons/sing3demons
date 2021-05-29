@@ -56,7 +56,7 @@ Badge | URL
 [<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />](https://github.com/sing3demons)&nbsp;
 [<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />](https://github.com/sing3demons)&nbsp;
 [<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />](https://github.com/sing3demons)&nbsp;
-[<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />](https://github.com/sing3demons)&nbsp;
+[<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/golang.md)&nbsp;
 [<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />](https://github.com/sing3demons)&nbsp;
 
 
