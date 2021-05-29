@@ -17,4 +17,8 @@
 <h2><a href="https://github.com/sing3demons/vscode-react/blob/main/.prettierrc"> .prettierrc  </a></h2>
 <h1><a href="https://github.com/sing3demons/vscode-vue">Vue - setup vscode</a></h1><br>
 
+
+## 👩‍💻 Languages [🔝](#welcome-badges-4-readmemd-profile)
+
+Badge | URL
 https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
