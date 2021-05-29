@@ -19,6 +19,6 @@ Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> | `https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen`
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> | `https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white`
-<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react?style=for-the-badge&logo=go&logoColor=white" /> | <a href="https://github.com/sing3demons/vscode-react/blob/main/setting.json"> React - setup vscode </a> <a href="https://github.com/sing3demons/vscode-react/blob/main/.prettierrc"> .prettierrc  </a>
-<img src="https://img.shields.io/badge/-Vue-61DAFB?logo=vue?logo=react?style=for-the-badge&logo=go&logoColor=white" /> | <a href="https://github.com/sing3demons/vscode-vue/blob/main/setting.json">Vue - setup vscode</a>
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react?style=for-the-badge&logo=go&logoColor=white" /> | <a href="https://github.com/sing3demons/vscode-react/blob/main/README.md"> React - setup vscode </a> 
+<img src="https://img.shields.io/badge/-Vue-61DAFB?logo=vue?logo=react?style=for-the-badge&logo=go&logoColor=white" /> | <a href="https://github.com/sing3demons/vscode-vue/blob/main/README.md">Vue - setup vscode</a>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> | `https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white`
