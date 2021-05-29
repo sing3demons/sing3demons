@@ -44,8 +44,3 @@ Badge | URL
 <a href="https://github.com/sing3demons/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sing3demons" />
 </a>
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-dd
-<!-- BLOG-POST-LIST:END -->
