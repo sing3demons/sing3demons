@@ -1,0 +1,25 @@
+# Git : tag กำหนดเวอร์ชั่นของ Repository
+สร้าง tag ชื่อ v1.0
+```
+git tag -a v1.0
+``` 
+
+แสดงรายการ tag ทั้งหมด
+```
+git tag
+``` 
+
+Checkout tag v1.0
+```
+git checkout v1.0
+``` 
+
+ลบ tag v1.0
+```
+git tag -d v1.0
+``` 
+
+push tag v1.0
+```
+git push origin tag 1.0
+```
