@@ -1,6 +1,11 @@
 # Git : tag กำหนดเวอร์ชั่นของ Repository
+
+$git tag         #แสดงแท็กทั้งหมด
+$git tag -n99    #แสดงแท็กทั้งหมดพร้อมข้อความ
+
 สร้าง tag ชื่อ v1.0
-git tag -a v1.0
+$git tag v1.0.0                   #สร้างแท็กชื่อ v1.0.0
+$git tag v1.0.1 -m "Tag Message"  #สร้างแท็กชื่อ v1.0.0 พร้อมระบุข้อความ
 
 แสดงรายการ tag ทั้งหมด
 git tag
@@ -13,4 +18,9 @@ git tag -d v1.0
 
 push tag v1.0
 git push origin tag 1.0
+$git push origin <tag name> #ส่งแท็กขึ้นไปที่ Remote Repository
+$git push origin --tags     #ส่งแท็กทั้งหมดขึ้นไปที่ Remote Repository
+
+$git push --delete origin <tag name> #ลบแท็กที่ Remote Repository
+$git tag --delete v1.0.0          #ลบแท็กชื่อ v1.0.0
 
