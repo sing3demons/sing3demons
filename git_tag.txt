@@ -1,5 +1,10 @@
 # Git : tag กำหนดเวอร์ชั่นของ Repository
 
+git add .
+git commit -m "..."
+git tag -a v1... -m "..."
+git push origin tag v1..
+
 $git tag         #แสดงแท็กทั้งหมด
 $git tag -n99    #แสดงแท็กทั้งหมดพร้อมข้อความ
 
