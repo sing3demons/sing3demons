@@ -15,7 +15,7 @@
 
 
 
-## 👩‍💻 setup vscode (#welcome-badges-4-readmemd-profile)
+## 👩‍💻 setup vscode 
 
 Badge | URL
 ------------ | -------------
