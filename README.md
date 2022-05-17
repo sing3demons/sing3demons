@@ -133,3 +133,50 @@ refactor: remove unnecessary else after return
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
 
+<hr>
+
+
+### Setup vscode React  ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
+
+cmd + shift + p > Preferences: Open Workspace Settings (JSON)
+
+#### setting.json
+```json
+{
+  "editor.formatOnSave": true,
+  "emmet.syntaxProfiles": { "javascript": "jsx" },
+  "emmet.includeLanguages": { "javascript": "javascriptreact" },
+  "emmet.triggerExpansionOnTab": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": { "editor.defaultFormatter": "esbenp.prettier-vscode" }
+}
+```
+<br>
+
+```
+touch .prettierrc
+```
+
+```json
+{ 
+"semi": false, 
+"singleQuote": true 
+}
+```
+
+#### esLint
+```
+youch .eslintrc
+```
+```
+{
+  "extends": ["react-app", "plugin:prettier/recommended"]
+}
+```
+```
+yarn add -D eslint-plugin-prettier eslint-config-prettier prettier
+```
+
+<hr>
+
+
