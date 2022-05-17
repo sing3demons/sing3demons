@@ -166,7 +166,7 @@ touch .prettierrc
 
 #### esLint
 ```
-youch .eslintrc
+touch .eslintrc
 ```
 ```
 {
