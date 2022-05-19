@@ -12,19 +12,24 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sing3demons&langs_count=26&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/sing3demons/sing3demons)
 
+```golng
+type aboutMe struct {
+  languages  []string
+  hobbies    []string
+}
 
-
-
-## 👩‍💻 setup vscode 
-
-Badge | URL
------------- | -------------
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> | <a href="https://github.com/sing3demons/vscode-react/blob/main/README.md"> React - setup vscode </a> 
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D" /> | <a href="https://github.com/sing3demons/vscode-vue/blob/main/README.md">Vue - setup vscode</a>
- <a href="https://github.com/sing3demons/awesome-go"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> </a> | <a href="https://github.com/sing3demons/go-docker-mysql/blob/main/README.md">go - docker - mysql</a>
-<a href="https://github.com/sing3demons/awesome-dotnet"> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white" /> </a> | <a href="https://github.com/sing3demons/dotnet-setup/blob/main/README.md">dotnet - docker</a>
-
-<br/>
+func main() {
+  sing3demons := aboutMe {
+    pronouns: ["He", "Him"],
+    languages: ["Go", "JavaScript", "C#", "Java"],
+    hobbies: ["Reading", "Watching", "Coding"],
+  }
+  
+  fmt.Printf("Pronouns: %v\n", sing3demons.pronouns)
+  fmt.Printf("Languages I Know: %v\n", sing3demons.languages)
+  fmt.Printf("My Hobbies: %v\n", sing3demons.hobbies)
+}
+```
 
 
 
@@ -40,32 +45,6 @@ Badge | URL
 &nbsp;
 [<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](https://stackoverflow.com/users/10927329/valentin-briand)
 &nbsp;
-
-## git commit -m 
-- feat (✨): ฟีเจอร์ใหม่ 
-- fix (🐛): แก้ไขบัค
-- refactor (📦): ปรับโครงสร้าง​ (ไม่ได้เพิ่มฟีเจอร์ แต่ก็ไม่ได้แก้บัค)
-- style (💎): การแก้ไขโค้ดที่ไม่ได้เปลี่ยนแปลงความหมาย เช่น เติม semicolon, ลบ whitespace
-- test (🚨): เพิ่ม/แก้ไข Test
-- perf (🚀): ปรับปรุงประสิทธิภาพการทำงาน
-- build (🔨): การแก้ไขที่กระทบกระบวนการ Build
-- ci (⚙️): ปรับการตั้งค่า CI เช่น ปรับขั้นตอนการทำงานของ GitHub Actions
-- docs (📚): การแก้ไขที่เกี่ยวกับเอกสาร เช่น แก้ README
-
-### วิธีใช้งานก็แค่เติมนำหน้า Commit Message ไปเลย เช่น:
-
-```
-feat: add confirmation dialog on delete
-```
-```
-fix: isOdd returns true when input is 0
-```
-```
-refactor: remove unnecessary else after return
-```
-<br/>
-
-
 
 ## 👩‍💻 Languages [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -86,39 +65,6 @@ refactor: remove unnecessary else after return
 [<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />](https://github.com/sing3demons)&nbsp;
 
 
-## 📖  What I am currently learning / improving on 🚀 
-
-[<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />](https://github.com/sing3demons)&nbsp;
-[<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/> ](https://github.com/sing3demons)&nbsp;
-[<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>](https://github.com/sing3demons)&nbsp;
-[<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>](https://github.com/sing3demons)&nbsp;
-[<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white" />](https://github.com/sing3demons)&nbsp;
-[<img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white"/>](https://github.com/sing3demons)&nbsp;
-[<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](https://github.com/sing3demons)&nbsp;
-[<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D" />](https://github.com/sing3demons)&nbsp;
-[<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />](https://github.com/sing3demons)&nbsp;
-[<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />](https://github.com/sing3demons)&nbsp;
-[<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />](https://github.com/sing3demons)&nbsp;
-[<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />](https://github.com/sing3demons)&nbsp;
-[<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />](https://github.com/sing3demons)&nbsp;
-[<img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />](https://github.com/sing3demons)&nbsp;
-[<img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" />](https://github.com/sing3demons)&nbsp;
-[<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />](https://github.com/sing3demons)&nbsp;
-[<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />](https://github.com/sing3demons)&nbsp;
-[<img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" />](https://github.com/sing3demons)&nbsp;
-[<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>](https://github.com/sing3demons)&nbsp;
-[<img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxt-dot-js&logoColor=white"/>](https://github.com/sing3demons)&nbsp;
-[<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white"/>](https://github.com/sing3demons)&nbsp;
-[<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>](https://github.com/sing3demons)&nbsp;
-[<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>](https://github.com/sing3demons)&nbsp;
-[<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>](https://github.com/sing3demons)&nbsp;
-[<img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/>](https://github.com/sing3demons)&nbsp;
-[<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white"/>](https://github.com/sing3demons)&nbsp;
-[<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>](https://github.com/sing3demons)&nbsp;
-[<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>](https://github.com/sing3demons)&nbsp;
-[<img src="https://img.shields.io/badge/ChartJS-FF6384?style=for-the-badge&logo=chart-dot-js&logoColor=white"/>](https://github.com/sing3demons)&nbsp;
-[<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />](https://github.com/sing3demons)&nbsp;
-
 
 ## 🔧 Technologies & Tools
 
@@ -131,52 +77,3 @@ refactor: remove unnecessary else after return
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-
-
-<hr>
-
-
-### Setup vscode React  ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
-
-cmd + shift + p > Preferences: Open Workspace Settings (JSON)
-
-#### setting.json
-```json
-{
-  "editor.formatOnSave": true,
-  "emmet.syntaxProfiles": { "javascript": "jsx" },
-  "emmet.includeLanguages": { "javascript": "javascriptreact" },
-  "emmet.triggerExpansionOnTab": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "[javascript]": { "editor.defaultFormatter": "esbenp.prettier-vscode" }
-}
-```
-<br>
-
-```
-touch .prettierrc
-```
-
-```json
-{ 
-"semi": false, 
-"singleQuote": true 
-}
-```
-
-#### esLint
-```
-touch .eslintrc
-```
-```
-{
-  "extends": ["react-app", "plugin:prettier/recommended"]
-}
-```
-```
-yarn add -D eslint-plugin-prettier eslint-config-prettier prettier
-```
-
-<hr>
-
-
