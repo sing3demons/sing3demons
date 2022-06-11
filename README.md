@@ -14,20 +14,21 @@
 
 ```golng
 type aboutMe struct {
-  languages  []string
-  hobbies    []string
+	pronouns  []string
+	languages []string
+	hobbies   []string
 }
 
 func main() {
-  sing3demons := aboutMe {
-    pronouns: ["He", "Him"],
-    languages: ["Go", "JavaScript", "C#", "Java"],
-    hobbies: ["Reading", "Watching", "Coding"],
-  }
-  
-  fmt.Printf("Pronouns: %v\n", sing3demons.pronouns)
-  fmt.Printf("Languages I Know: %v\n", sing3demons.languages)
-  fmt.Printf("My Hobbies: %v\n", sing3demons.hobbies)
+	sing3demons := aboutMe{
+		pronouns:  []string{"He", "Him"},
+		languages: []string{"Go", "JavaScript", "C#", "Java"},
+		hobbies:   []string{"Watching"},
+	}
+
+	fmt.Printf("Pronouns: %v\n", sing3demons.pronouns)
+	fmt.Printf("Languages I Know: %v\n", sing3demons.languages)
+	fmt.Printf("My Hobbies: %v\n", sing3demons.hobbies)
 }
 ```
 
