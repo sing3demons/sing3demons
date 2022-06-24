@@ -41,20 +41,8 @@ func main() {
 	fmt.Printf("Languages I Know: %v\n", sing3demons.languages)
 	fmt.Printf("My Hobbies: %v\n", sing3demons.hobbies)
 
-	c := contact{
-		Facebook:  "facebook.com/sing3demons",
-		Messenger: "https://m.me/sing3demons",
-		Line:      "sing3demons",
-		Telephone: "+66974799593",
-		Email:     []string{"sing3demons@live.com", "kp.sing3demons@gmail.com"},
-	}
-	s := map[string]any{
-		"Line":      c.Line,
-		"Email":     c.Email,
-		"Messenger": c.Messenger,
-		"Facebook":  c.Facebook,
-		"Telephone": c.Telephone,
-	}
+	c := contact{ Facebook:  "facebook.com/sing3demons", Messenger: "m.me/sing3demons", Line:"sing3demons", Telephone: "+66974799593", Email:[]string{"sing3demons@live.com", "kp.sing3demons@gmail.com"}}
+	s := map[string]any{"Line":c.Line, "Email":c.Email, "Messenger": c.Messenger, "Facebook":  c.Facebook, "Telephone": c.Telephone}
 	fmt.Printf("Contact: %v\n", s)
 }
 ```
@@ -63,24 +51,20 @@ Hello, I'm Kumneung!👋
 Pronouns: [He Him]
 Languages I Know: [Go JavaScript C# Java]
 My Hobbies: [Watching Sleeping]
+Contact: map[Email:[sing3demons@live.com kp.sing3demons@gmail.com]
+	Facebook:facebook.com/sing3demons Line:sing3demons 
+	Messenger:https://m.me/sing3demons Telephone:+66974799593]
 ```
 ## 📱 Contact 
-```contact
-Contact: map[Email:[sing3demons@live.com kp.sing3demons@gmail.com]
-	Facebook:facebook.com/sing3demons Line:sing3demons Messenger:https://m.me/sing3demons 
-	Telephone:+66974799593]
-```
 
 [<img src="https://img.shields.io/badge/LINE-sing3demons-brightgreen?style=for-the-badge&logo=line&logoColor=white" />](https://line.me/ti/p/~sing3demons)
 &nbsp;
 [<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](https://outlook.live.com/mail/0/)
 [<img src="https://img.shields.io/badge/EMAIL-%5Bsing3demons%40live.com%2C%20kp.sing3demons%40gmail.com%5D-critical?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/0/?ogbl#inbox)
 &nbsp;
-[<img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />](https://m.me/sing3demons)
+[<img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />](https://www.facebook.com/sing3demons/)](https://www.facebook.com/sing3demons/)
 &nbsp;
-[<img src="https://img.shields.io/badge/Facebook-sing3demons-brightgreen?style=for-the-badge&labelColor=black&logo=facebook" />]([[https://stackoverflow.com/users/10927329/valentin-briand](https://www.facebook.com/sing3demons/)](https://www.facebook.com/sing3demons/))
-&nbsp;
-[<img src="https://img.shields.io/badge/Phone-%2B66974799593-blueviolet?style=for-the-badge&labelColor=black&logo=phone" />]([+66974799593](+66974799593))
+[<img src="https://img.shields.io/badge/Phone-%2B66974799593-blueviolet?style=for-the-badge&labelColor=black&logo=phone" />](+66974799593)
 &nbsp;
 
 ## 👩‍💻 Languages [🔝](#welcome-badges-4-readmemd-profile)
