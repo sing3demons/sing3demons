@@ -1,10 +1,14 @@
-#       ชื่อ : คำนึง พันธ์ทอง
+#       ชื่อ : คำนึง พันธ์ทอง (สิงห์)
       
-<!--START_SECTION:waka-->
 
-<!--END_SECTION:waka-->
   
-
+## Hello, I'm Kumneung!👋
+```contact
+Email:		kp.sing3demons@gmail.com || sing3demons@live.com 
+Facebook:	facebook.com/sing3demons Line:sing3demons 
+Messenger:	https://m.me/sing3demons 
+Telephone:	+66974799593
+```
 <!--
 **sing3demons/sing3demons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -46,15 +50,9 @@ func main() {
 	fmt.Printf("Contact: %v\n", s)
 }
 ```
-```output
-Hello, I'm Kumneung!👋
-Pronouns: [He Him]
-Languages I Know: [Go JavaScript C# Java]
-My Hobbies: [Watching Sleeping]
-Contact: map[Email:[sing3demons@live.com kp.sing3demons@gmail.com]
-	Facebook:facebook.com/sing3demons Line:sing3demons 
-	Messenger:https://m.me/sing3demons Telephone:+66974799593]
-```
+
+
+
 ## 📱 Contact 
 
 [<img src="https://img.shields.io/badge/LINE-sing3demons-brightgreen?style=for-the-badge&logo=line&logoColor=white" />](https://line.me/ti/p/~sing3demons)
