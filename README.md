@@ -5,7 +5,8 @@
 ## Hello, I'm Kumneung!👋
 ```contact
 Email:		kp.sing3demons@gmail.com || sing3demons@live.com 
-Facebook:	facebook.com/sing3demons Line:sing3demons 
+Facebook:	facebook.com/sing3demons 
+Line:		sing3demons 
 Messenger:	https://m.me/sing3demons 
 Telephone:	+66974799593
 ```
