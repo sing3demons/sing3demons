@@ -103,6 +103,6 @@ func main() {
 #### project
 ```nodejs,go
 https://combuy-computer-shop.herokuapp.com/
-https://go-kpsing.herokuapp.com/swagger/index.html
+https://go-api-x10n.onrender.com/swagger/index.html
 ```
 
