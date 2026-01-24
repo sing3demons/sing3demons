@@ -1,12 +1,11 @@
 #       ชื่อ : คำนึง พันธ์ทอง (สิงห์)
       
-![Code Time](dynamic badge)
+![Code Time](https://img.shields.io/endpoint?url=https://waka-readme-stats.vercel.app/api/badge/sing3demons)
+
 
 ## ⏱ Code Time
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-![Code Time](https://img.shields.io/endpoint?url=https://waka-readme-stats.vercel.app/api/badge/sing3demons)
   
 ## Hello, I'm Kumneung!👋
 ```contact
