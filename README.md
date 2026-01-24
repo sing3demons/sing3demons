@@ -5,8 +5,12 @@
 
 ## ⏱ Code Time
 <!--START_SECTION:waka-->
-![Code Time](https://img.shields.io/endpoint?url=https://waka-readme-stats.vercel.app/api/badge/sing3demons&style=for-the-badge)
-![Code Time](https://img.shields.io/badge/Code%20Time-updating-blue)
+
+```txt
+Total Time: 0 secs
+
+No activity tracked
+```
 
 <!--END_SECTION:waka-->
   
