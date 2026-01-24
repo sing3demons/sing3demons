@@ -10,7 +10,8 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-  
+![Code Time](https://wakatime.com/badge/user/301bd8fc-a52f-4363-819f-17fbe907499d.svg)
+
 ## Hello, I'm Kumneung!👋
 ```contact
 Email:		kp.sing3demons@gmail.com || sing3demons@live.com 
