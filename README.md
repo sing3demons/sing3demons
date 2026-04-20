@@ -4,11 +4,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 58 mins
+Total Time: 0 secs
 
-Go      1 hr 57 mins          ████████████████████████▓   99.29 %
-Bash    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-Other   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
