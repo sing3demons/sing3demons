@@ -4,11 +4,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 43 mins
+Total Time: 4 mins
 
-TypeScript   35 mins               ████████████████████▒░░░░   80.87 %
-Markdown     4 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
-JavaScript   4 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+JavaScript   4 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
