@@ -4,9 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 49 mins
 
-No activity tracked
+Go           33 mins               █████████████████░░░░░░░░   67.97 %
+JSON         7 mins                ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
+Markdown     4 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
+Makefile     2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+HTML         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
