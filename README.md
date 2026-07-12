@@ -4,9 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 40 mins
 
-No activity tracked
+Go            24 mins               ███████████████▒░░░░░░░░░   61.09 %
+Markdown      9 mins                ██████▒░░░░░░░░░░░░░░░░░░   24.67 %
+Bash          5 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 %
+YAML          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+HTML          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
