@@ -4,12 +4,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 48 mins
+Total Time: 21 mins
 
-JavaScript   36 mins               ██████████████████▓░░░░░░   74.08 %
-Go           10 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.15 %
-JSON         1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
-Docker       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+JavaScript   21 mins               █████████████████████████   99.62 %
+Docker       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
