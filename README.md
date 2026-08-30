@@ -4,11 +4,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 41 mins
+Total Time: 0 secs
 
-Go     39 mins               ████████████████████████░   96.00 %
-JSON   1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-YAML   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
